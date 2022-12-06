@@ -23,3 +23,6 @@
 
 ## 功能分解圖
 ![image](https://user-images.githubusercontent.com/113970010/205977229-f5b6b616-16e4-4ec1-912c-3c4493d1a33a.png)
+
+## Figma
+* [Figma連結](https://www.figma.com/proto/ZrJmk6Z3VScAhKIrPrc0j4/%E7%B3%BB%E7%B5%B1%E5%88%86%E6%9E%90?node-id=1%3A2&starting-point-node-id=1%3A2)
