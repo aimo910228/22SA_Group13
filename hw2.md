@@ -20,3 +20,6 @@
 3. 可靠度：1000筆資料匯入時不易中斷
 4. 效能：匯入收件者5分鐘內完成，在打好內容的情況下一小時可以傳500封信件。
 5. 維護性：網頁介面採用react.js，API採用node.js，中文編碼採用utf-8
+
+## 功能分解圖
+![image](https://user-images.githubusercontent.com/113970010/205977229-f5b6b616-16e4-4ec1-912c-3c4493d1a33a.png)
