@@ -27,7 +27,7 @@
 ## Figma
 * [Figma連結](https://www.figma.com/proto/ZrJmk6Z3VScAhKIrPrc0j4/%E7%B3%BB%E7%B5%B1%E5%88%86%E6%9E%90?node-id=1%3A2&starting-point-node-id=1%3A2)
 
-## 使用案例圖
+## 使用案例說明
 
 |使用案例名稱 |   |
 |:----|:--:|
