@@ -7,6 +7,7 @@
 
 ## 循序圖
 
+![image](https://user-images.githubusercontent.com/113970010/208097581-9deaa640-95b6-4ea0-ad02-46838b3f205e.png)
 
 
 ## 活動圖(使用案例1)
